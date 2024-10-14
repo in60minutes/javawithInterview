@@ -21,7 +21,7 @@ public class ArrayListDemo {
 
 
         System.out.println(l1.size());
-        System.out.println(l1.capacity());
+        System.out.println(l1.getFirst());
 
     }
 }
